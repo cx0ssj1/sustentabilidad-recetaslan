@@ -1,47 +1,61 @@
-♻️ Recetas Reciclables
+# 🌱 Recetas Reciclables
 
-Bienvenido a Recetas Reciclables, el mini-sitio donde tomas basura… y la conviertes en cosas útiles (o al menos entretenidas).
-Si quieres reciclar sin enredarte, este proyecto es para ti.
+![Environmental Icon](ico-ambiental.png)
 
-🌱 ¿De qué trata?
+## 📖 Descripción
 
-La idea es simple:
-reutilizar materiales que todos tenemos en casa y transformarlos en proyectos rápidos, creativos y fáciles de hacer.
+**Recetas Reciclables** es un proyecto educativo enfocado en la sustentabilidad y el cuidado del medioambiente. Ofrece recetas prácticas y creativas para transformar residuos en objetos útiles y divertidos, promoviendo la reutilización y el reciclaje.
 
-Aquí encuentras recetas como:
+Este sitio web presenta proyectos sencillos que cualquier persona puede realizar en casa con materiales reciclados, fomentando prácticas sostenibles y conciencia ambiental.
 
-🌈 Lámparas de lava hechas con aceite reciclado
+## ✨ Características
 
-🧱 Eco-ladrillos para dar nueva vida al plástico
+- 🎨 **Proyectos Creativos**: Recetas paso a paso para convertir residuos en objetos útiles
+- 🔬 **Experimentos Científicos**: Como la lámpara de lava casera
+- 🏗️ **Construcción Sostenible**: Aprende a crear eco-ladrillos con plástico reciclado
+- 📱 **Diseño Responsivo**: Interfaz adaptable a todos los dispositivos
+- 🎥 **Contenido Multimedia**: Videos instructivos integrados
 
-✂️ Proyectos caseros para aprender jugando
+## 🛠️ Recetas Incluidas
 
-Todo presentado en un diseño limpio, responsive y sin complicaciones.
+### 1. Lámpara de Lava Casera
+Un divertido experimento científico usando materiales reciclados que demuestra principios de densidad y reacciones químicas.
 
-🧩 ¿Qué incluye el sitio?
+**Materiales**: Botella transparente reciclada, aceite vegetal usado, agua, colorante alimenticio, pastillas efervescentes.
 
-🟢 Hero section animada con mensaje principal
+### 2. Eco-Ladrillos
+Convierte residuos plásticos en material de construcción sostenible mediante la técnica de compactación.
 
-📺 Recetas con videos de YouTube
+**Materiales**: Botellas PET, residuos plásticos limpios, herramienta para compactar.
 
-🧰 Listas de materiales
+## 🚀 Visualización
 
-📝 Pasos fáciles de seguir
+Visita el sitio web abriendo el archivo `index.html` en tu navegador o despliégalo usando GitHub Pages.
 
-📦 Footer con recursos y créditos
+## 🎯 Objetivo del Proyecto
 
-🛠️ Tecnologías usadas
+Promover la educación ambiental a través de actividades prácticas que demuestran cómo los residuos pueden tener una segunda vida, reduciendo el impacto ambiental y fomentando la creatividad.
 
-HTML5
+## 🌍 Impacto Ambiental
 
-CSS3
+Este proyecto contribuye a:
+- ♻️ Reducción de residuos plásticos
+- 🌿 Conciencia sobre reutilización de materiales
+- 📚 Educación ambiental práctica
+- 🤝 Participación comunitaria en sustentabilidad
 
-Bootstrap 5.3
+## 🏫 Créditos
 
-YouTube Embed
+**© 2025 IP Virginio Gómez** — Proyecto de Sustentabilidad y Medioambiente
 
-📁 Estructura rápida
-/
-├── index.html
-├── ico-ambiental.png
-└── Logo_VG_color.png
+## 📱 Comparte
+
+¿Creaste algún proyecto? Comparte tus creaciones con **#ReciclaYDiviértete**
+
+## 🛡️ Licencia
+
+Este proyecto es de código abierto y está disponible para fines educativos.
+
+---
+
+*Materiales sugeridos: plásticos limpios, cartón, envases de vidrio y telas reutilizadas.*
